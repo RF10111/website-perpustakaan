@@ -15,7 +15,7 @@
                 </ul>                     
             </div>
             <div class="col-md-3">
-                Copyright &copy; 2017. All right reserve
+                Copyright &copy; 2025. All right reserve
                 <p>
                 Developed by The Letter</div>
         </div>
